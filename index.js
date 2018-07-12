@@ -13,9 +13,9 @@ function functions(){
    return('Happy holidays, you!');
  }
   
- function functions(holiday){
+ function functions(holiday, name){
   return(`Happy Independence Day, you!`);
 }
- function happyHolidaysTo(name){
+ function happyHolidaysTo(holiday,name){
    return(`Happy Independence Day, you!`);
  } 
