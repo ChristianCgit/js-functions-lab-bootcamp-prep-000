@@ -2,8 +2,8 @@
 function functions(string)
 function happyHolidays(string){
   var happyHolidays = "Happy holidays!";
+  return (happyHolidays);
 }
-  return happyHolidays();
 
 
   
