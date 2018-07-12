@@ -1,6 +1,6 @@
 // write your code below!
-function functions()
-function happyHolidays(){
+function functions(string)
+function happyHolidays(string){
   return functions.happyHolidays();
 }
 
