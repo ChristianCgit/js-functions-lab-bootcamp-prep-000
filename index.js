@@ -23,6 +23,6 @@ function functions(){
   function functions(){
   return(`It's ${days} days until ${holiday}!`);
 }
- function happyHolidayTo(days,holiday){
+ function holidayCountdown(days,holiday){
    return(`It's 20 days until Mother's Day!`);
  } 
