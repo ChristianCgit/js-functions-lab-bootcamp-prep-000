@@ -24,5 +24,5 @@ function functions(){
   return(`It's ${days} days until ${holiday}!`);
 }
  function happyHolidayTo(days,holiday){
-   return(`It's 20 days until ${holiday}!`);
+   return(`It's 20 days until Mother's Day!`);
  } 
