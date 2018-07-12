@@ -13,4 +13,9 @@ function functions(){
    return('Happy holidays, you!');
  }
   
-  
+ function functions(){
+  return('Happy holidays, ${name}!');
+}
+ function happyHolidaysTo(name){
+   return('Happy holidays, you!');
+ } 
