@@ -1,5 +1,5 @@
 // write your code below!
-functions();
+function happHolidays(string);
 happyHolidays("Happy holidays!");{
   return happyHolidays();
 }
