@@ -21,8 +21,8 @@ function functions(){
  } 
  
   function functions(){
-  return('Happy ${holidays}, ${name}!');
+  return(`It's ${days} days until ${holiday}!`);
 }
- function happyHolidayTo(holiday,name){
+ function happyHolidayTo(days,holiday){
    return(`Happy Independence Day, you!`);
  } 
