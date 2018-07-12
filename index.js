@@ -13,7 +13,7 @@ function functions(){
    return('Happy holidays, you!');
  }
   
- function functions(){
+ function functions(holiday){
   return(`Happy ${holiday}, ${name}!`);
 }
  function happyHolidaysTo(holiday, name){
